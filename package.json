@@ -1,0 +1,10 @@
+{
+  "name": "hellom3o",
+  "version": "1.0.0",
+  "description": "Node.js with m3o",
+  "author": "Marc Riart <marc_riart@es.ibm.com>",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  }
+}
