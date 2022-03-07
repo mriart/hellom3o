@@ -1,10 +1,15 @@
 {
   "name": "hellom3o",
+  "description": "Simple hello world sample in Node",
   "version": "1.0.0",
-  "description": "Node.js with m3o",
-  "author": "Marc Riart <marc_riart@es.ibm.com>",
+  "private": true,
   "main": "main.js",
   "scripts": {
-    "start": "node main.js"
-  }
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">= 12.0.0"
+  },
+  "author": "MRS",
+  "license": "Apache-2.0"
 }
